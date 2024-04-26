@@ -6,3 +6,7 @@ athena:
   bucket_queries: itam-analytics-roman-queries
   db_name: profeco_db
   table_name: profeco
+aws:
+  profile: "arquitectura"
+partA_tables:
+  
