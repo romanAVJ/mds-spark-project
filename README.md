@@ -12,10 +12,10 @@
 
 ## Repository structure
 
-`figures`: Screenshots of the deliverables.
-`src`: The code used for the project.
-    `s1_clean`: Here it is included the bash code used to clean the data.
-    `s2_spark`: Here it is included the notebbooks of the part A and B of the project
+-`figures`: Screenshots of the deliverables.
+-`src`: The code used for the project.
+    +`s1_clean`: Here it is included the bash code used to clean the data.
+    +`s2_spark`: Here it is included the notebbooks of the part A and B of the project
 
 ## Technology used in current scenario
 -  `Bash`: Bash was used to clean the data and create a unified dataset
