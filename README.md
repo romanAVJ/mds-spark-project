@@ -6,7 +6,7 @@ Team 1:
 Name | ID | Email
 --- | --- | ---
 Pablo Martínez | 165680 | pmarti44@itam.mx
-Javier Montiel | 165539 | jkcads
+Javier Montiel | 159216 | jmontie3@itam.mx
 Román Vélez | 165462 | roman.velez@itam.mx
 
 ## Objective 
