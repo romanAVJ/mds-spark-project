@@ -46,8 +46,10 @@ Román Vélez | 165462 | roman.velez@itam.mx
 ![qqp](figures/qqp_parquets.png)
 
 ### P2: Cluster Dashboard
+![cluster](figures/ss_cluster.png)
 
-### P3: JupyterHub 
+### P3: JupyterHub
+![dns](figures/ss_dns.png)
 
 ### P4: Athena Tables
 ![athena_db](figures/athena_db.png)
