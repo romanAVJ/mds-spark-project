@@ -27,7 +27,7 @@ Román Vélez | 165462 | roman.velez@itam.mx
 
     - [s1_clean](!https://github.com/romanAVJ/mds-spark-project/tree/main/src/s1_clean): Here it is included the bash code used to clean the data.
     
-    - [s2_spark](!https://github.com/romanAVJ/mds-spark-project/tree/main/src/s2_spark): Here it is included the notebooks of the part A and part B of the project. Part A has 2 notebooks: `partA.ipynb` where the pyspark queries were fetched and `partA_bis.ipynb` where there is a complement of some questions of part A.
+    - [s2_spark](!https://github.com/romanAVJ/mds-spark-project/tree/main/src/s2_spark): Here it is included the notebooks of the part A and part B of the project. Part A has 2 notebooks: `partA.ipynb` where the pyspark queries were fetched and `TimeSeriesPlot.R` where it was made a time series plot of the last questions of part A.
 
 - **requirements.txt**: The libraries used in the project.
 
@@ -39,6 +39,8 @@ Román Vélez | 165462 | roman.velez@itam.mx
 - `PySpark`: PySpark was used in a AWS cluster environment, as the unified dataset size is 25.2 GB.
 
 - `Python`: Python was used to connect to Athena in order to do queries. :snake:
+
+- `R`: R was used to make a time series plot by frames for the part A of the project.
 
 ## Deliverables
 
